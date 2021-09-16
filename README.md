@@ -19,6 +19,6 @@ If both user and computer chooses same option among rock, paper and scissor then
 
 
 # Output:
-I have used the Python Tkinter library for rendering graphics. This library helped to create GUI so that the project becomes more user friendly. It helped to create a window in which we can edited pictures, texts and buttons,etc.
+We have used the Python Tkinter library for rendering graphics. This library helped to create GUI so that the project becomes more user friendly. It helped to create a window in which we can edited pictures, texts and buttons,etc.
 
 ![output](https://user-images.githubusercontent.com/88545150/133619758-0c5c796f-d74e-491a-a0d6-63253c8faaf6.png)
